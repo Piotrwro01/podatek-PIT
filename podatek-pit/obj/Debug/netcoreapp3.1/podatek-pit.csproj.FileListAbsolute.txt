@@ -1,0 +1,13 @@
+P:\Csharp\podatek-pit\podatek-pit\bin\Debug\netcoreapp3.1\podatek-pit.exe
+P:\Csharp\podatek-pit\podatek-pit\bin\Debug\netcoreapp3.1\podatek-pit.deps.json
+P:\Csharp\podatek-pit\podatek-pit\bin\Debug\netcoreapp3.1\podatek-pit.runtimeconfig.json
+P:\Csharp\podatek-pit\podatek-pit\bin\Debug\netcoreapp3.1\podatek-pit.runtimeconfig.dev.json
+P:\Csharp\podatek-pit\podatek-pit\bin\Debug\netcoreapp3.1\podatek-pit.dll
+P:\Csharp\podatek-pit\podatek-pit\bin\Debug\netcoreapp3.1\podatek-pit.pdb
+P:\Csharp\podatek-pit\podatek-pit\obj\Debug\netcoreapp3.1\podatek-pit.csprojAssemblyReference.cache
+P:\Csharp\podatek-pit\podatek-pit\obj\Debug\netcoreapp3.1\podatek-pit.AssemblyInfoInputs.cache
+P:\Csharp\podatek-pit\podatek-pit\obj\Debug\netcoreapp3.1\podatek-pit.AssemblyInfo.cs
+P:\Csharp\podatek-pit\podatek-pit\obj\Debug\netcoreapp3.1\podatek-pit.csproj.CoreCompileInputs.cache
+P:\Csharp\podatek-pit\podatek-pit\obj\Debug\netcoreapp3.1\podatek-pit.dll
+P:\Csharp\podatek-pit\podatek-pit\obj\Debug\netcoreapp3.1\podatek-pit.pdb
+P:\Csharp\podatek-pit\podatek-pit\obj\Debug\netcoreapp3.1\podatek-pit.genruntimeconfig.cache
