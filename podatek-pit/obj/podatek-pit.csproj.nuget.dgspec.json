@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Csharp\\podatek-pit\\podatek-pit\\podatek-pit.csproj": {}
+    "P:\\Csharp\\podatek-pit-repo\\podatek-PIT\\podatek-pit\\podatek-pit.csproj": {}
   },
   "projects": {
-    "P:\\Csharp\\podatek-pit\\podatek-pit\\podatek-pit.csproj": {
+    "P:\\Csharp\\podatek-pit-repo\\podatek-PIT\\podatek-pit\\podatek-pit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Csharp\\podatek-pit\\podatek-pit\\podatek-pit.csproj",
+        "projectUniqueName": "P:\\Csharp\\podatek-pit-repo\\podatek-PIT\\podatek-pit\\podatek-pit.csproj",
         "projectName": "podatek-pit",
-        "projectPath": "P:\\Csharp\\podatek-pit\\podatek-pit\\podatek-pit.csproj",
+        "projectPath": "P:\\Csharp\\podatek-pit-repo\\podatek-PIT\\podatek-pit\\podatek-pit.csproj",
         "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "P:\\Csharp\\podatek-pit\\podatek-pit\\obj\\",
+        "outputPath": "P:\\Csharp\\podatek-pit-repo\\podatek-PIT\\podatek-pit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
