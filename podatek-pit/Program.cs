@@ -26,6 +26,9 @@ namespace podatek_pit
                 case 2:
                     czlowiek();
                     break;
+                case 3:
+                    czlowiek();
+                    break;
                 default:
                     Console.Write("Niepoprawny wybór, spróbuj jeszcze raz: ");
                     goto Wybor;
